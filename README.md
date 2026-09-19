@@ -1,6 +1,6 @@
 #STAR NEXUS — game bắn phi thuyền vũ trụ "siêu khủng" (tổng assets + code vài MB) đã build thành công.
 
-##Nội dung game:
+#Nội dung game:
 
 Engine canvas 60FPS tự viết: vật lý, particle, screen shake, parallax sao, trail đạn.
 6 vũ khí: Blaster, Spread, Laser xuyên, Tên lửa dò mục tiêu, Plasma, Railgun.
